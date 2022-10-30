@@ -6,16 +6,9 @@ https://nni.readthedocs.io/en/stable/tutorials/hpo_quickstart_pytorch/main.html
 """
 
 from pathlib import Path
-import signal
-import sys
 import time
 
 from nni.experiment import Experiment
-
-def signal_handler(signal, frame):    
-    print("Process Interrupted!")
-    sys.exit(0)
-
 
 
 # Define search space
