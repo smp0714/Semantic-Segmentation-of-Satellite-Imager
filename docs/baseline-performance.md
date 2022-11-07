@@ -1,3 +1,5 @@
+Colab Notebook
+https://colab.research.google.com/drive/1phjCIRrLuccILB7-ALqH0W9DXCqs3mvw?usp=sharing
 10 segmented images from the validation set
 ![1](https://user-images.githubusercontent.com/113561399/200233502-5d30c8db-5ae8-4a13-bba1-f10d4ba0eebd.png)
 ![2](https://user-images.githubusercontent.com/113561399/200233503-b2a9dfc5-ddac-4881-87f2-802d48cb8ffd.png)
